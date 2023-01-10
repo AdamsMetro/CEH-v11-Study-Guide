@@ -48,6 +48,7 @@
 12. [Module 12 - Evading IDS, Firewalls, and Honeypots](https://github.com/imrk51/CEH-v11-Study-Guide/blob/master/modules/12-Evading-IDS-Firewalls-and-Honeypots.md)
 13. [Module 13 - Hacking Web Servers](https://github.com/imrk51/CEH-v11-Study-Guide/blob/master/modules/13-Hacking-Web-Servers.md)
 14. [Module 14 - Hacking Web Applications](https://github.com/imrk51/CEH-v11-Study-Guide/blob/master/modules/14-Hacking-Web-Applications.md)
+https://www.w3schools.com/sql/sql_injection.asp
 15. [Module 15 - SQL Injection](https://github.com/imrk51/CEH-v11-Study-Guide/blob/master/modules/14-Pentesting.md)
 16. [Module 16 - Hacking Wireless Networks](https://github.com/imrk51/CEH-v11-Study-Guide/blob/master/modules/16-Hacking-Wireless-Networks.md)
 17. [Module 17 - Hacking Mobile Platforms](https://github.com/imrk51/CEH-v11-Study-Guide/blob/master/modules/17-Hacking-Mobile-Platforms-and-IoT.md)
